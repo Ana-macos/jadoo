@@ -8,15 +8,15 @@ import Header from "./Header.vue";
     <section class="w-full grid grid-cols-1 md:grid-cols-2 items-center p-5 sm:p-20 my-2">
       <div class="space-y-3">
         <p class="uppercase font-poppins text-sm text-[#DF6951] font-bold">
-          Best Destinations around the world
+          Aulas remotas e presenciais
         </p>
         <div
           class="font-volkhov font-bold text-5xl md:text-6xl lg:text-8xl text-[#181E4B]"
         >
           <div class="flex space-x-3">
-            <div>Travel,</div>
+            <div>Inglês</div>
             <div class="relative">
-              enjoy
+              rápido
               <svg
                 class="absolute bottom-0 -left-4 w-44 sm:w-80"
                 viewBox="0 0 385 12"
@@ -43,18 +43,16 @@ import Header from "./Header.vue";
               </svg>
             </div>
           </div>
-          <div>and live a new and full life</div>
+          <div>e eficiente</div>
         </div>
         <p class="font-poppins text-gray-500 text-sm">
-          Built Wicket longer admire do barton vanity itself do in it. Preferred
-          to sportsmen it engrossed listening. Park gate sell they west hard for
-          the.
+          Aprenda inglês 4x mais rápido com o Método Callan! Treinamentos online, professores nativos, fluência em 1/4 do tempo. Agende sua consultoria agora!
         </p>
         <div class="flex items-center space-x-3">
           <button type="button" aria-label="Find out more"
             class="block bg-[#F1A501] text-white p-3 text-sm font-poppins rounded-md"
           >
-            Find out more
+            VAMOS CONVERSAR?
           </button>
           <button type="button" aria-label="Play demo" class="font-poppins flex mt-5">
             <svg

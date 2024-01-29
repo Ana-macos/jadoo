@@ -27,10 +27,9 @@
             </svg>
 
             <div>
-              <p class="text-gray-600 font-bold">Choose Destination</p>
+              <p class="text-gray-600 font-bold">Nossa Missão</p>
               <p class="text-sm text-gray-600">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna,
-                tortor tempus.
+                Garantir a melhor experiência aos alunos, com ensino de alta qualidade.
               </p>
             </div>
           </div>
@@ -82,10 +81,9 @@
             </svg>
 
             <div>
-              <p class="text-gray-600 font-bold">Make Payment</p>
+              <p class="text-gray-600 font-bold">Programa de ensino</p>
               <p class="text-sm text-gray-600">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna,
-                tortor tempus.
+                Professores brasileiros e estrangeiros garantem aprendizado eficaz e rápido.
               </p>
             </div>
           </div>
@@ -120,11 +118,10 @@
 
             <div>
               <p class="text-gray-600 font-bold">
-                Reach Airport on Selected Date
+                1/4 do tempo
               </p>
               <p class="text-sm text-gray-600">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Urna,
-                tortor tempus.
+                Curso intensivoetodologia dinâmica para fluência rápida!
               </p>
             </div>
           </div>

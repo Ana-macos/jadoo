@@ -9,17 +9,17 @@ import PlusPlusSVG from "~/components/global/svg/PlusPlusSVG.vue";
 <template>
   <section class="p-6 sm:p-20">
     <div class="text-center space-y-3 relative">
-      <p class="uppercase font-semibold text-gray-600">Category</p>
-      <h2 class="text-[#14183E] font-bold text-4xl sm:text-5xl font-volkhov">We Offer Best Services</h2>
+      <p class="uppercase font-semibold text-gray-600">Vantagens</p>
+      <h2 class="text-[#14183E] font-bold text-4xl sm:text-5xl font-volkhov">Sobre a USK Callan</h2>
       <PlusPlusSVG />
     </div>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 p-8 sm:p-0 gap-8 sm:gap-16 items-center my-4 sm:my-12 text-center">
       <div class="relative group">
         <div class="space-y-3 cursor-pointer mt-2 group-hover:border  p-12 sm:px-6 sm:py-12 group-hover:rounded-3xl group-hover:z-20 group-hover:bg-white group-hover:drop-shadow-2xl">
           <SatelightSVG />
-          <p class="text-[#1E1D4C] font-semibold">Calculated Weather</p>
+          <p class="text-[#1E1D4C] font-semibold">Treinamentos 100% online, híbridos e presenciais</p>
           <p class="text-xs text-gray-500">
-            Built Wicket longer admire do barton vanity itself do in it.
+            Aulas remotas: rápido e eficiente com método Callan.
           </p>
         </div>
         <svg
@@ -37,9 +37,9 @@ import PlusPlusSVG from "~/components/global/svg/PlusPlusSVG.vue";
       <div class="relative group">
         <div class="space-y-3 cursor-pointer -mt-6 group-hover:border px-6 py-12 group-hover:rounded-3xl group-hover:z-20 group-hover:bg-white group-hover:drop-shadow-2xl">
           <AeroplaneSVG />
-          <p class="text-[#1E1D4C] font-semibold">Best Flights</p>
+          <p class="text-[#1E1D4C] font-semibold">Rodízio de Professores Brasileiros e Nativos</p>
           <p class="text-xs text-gray-500">
-            Engrossed listening. Park gate sell they west hard for the.
+            Professores brasileiros e nativos alternados garantem aprendizado dinâmico.
           </p>
         </div>
         <svg
@@ -57,10 +57,9 @@ import PlusPlusSVG from "~/components/global/svg/PlusPlusSVG.vue";
       <div class="relative group">
         <div class="space-y-3 cursor-pointer mt-1 group-hover:border px-6 py-12 group-hover:rounded-3xl group-hover:z-20 group-hover:bg-white group-hover:drop-shadow-2xl">
           <MicrophoneSVG />
-          <p class="text-[#1E1D4C] font-semibold">Local Events</p>
+          <p class="text-[#1E1D4C] font-semibold">Metodologia avançada (Método Callan)</p>
           <p class="text-xs text-gray-500">
-            Barton vanity itself do in it. Preferd to men it engrossed
-            listening.
+            Metodologia Callan: acelere seu aprendizado com sequências linguísticas essenciais.
           </p>
         </div>
         <svg
@@ -78,10 +77,9 @@ import PlusPlusSVG from "~/components/global/svg/PlusPlusSVG.vue";
       <div class="relative group">
         <div class="space-y-3 cursor-pointer group-hover:border px-6 py-12 group-hover:rounded-3xl group-hover:z-20 group-hover:bg-white group-hover:drop-shadow-2xl">
           <CogSVG />
-          <p class="text-[#1E1D4C] font-semibold">Customization</p>
+          <p class="text-[#1E1D4C] font-semibold">Treinamento 5x por semana</p>
           <p class="text-xs text-gray-500">
-            We deliver outsourced aviation services for military customers
-          </p>
+          Aprimore seu inglês com treinamentos intensivos, 5x por semana. Acesso flexível e professores experientes.</p>
         </div>
         <svg
           class="hidden group-hover:block group-hover:absolute group-hover:-bottom-4 group-hover:w-20 group-hover:-left-4 group-hover:-z-10"
