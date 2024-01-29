@@ -128,11 +128,11 @@
         </div>
       </div>
       <nuxt-picture
-        src="/images/bookings.jpg"
+        src="/images/bookings.png"
         alt="bookings"
         class="-mt-16 sm:mt-0"
-        width="314"
-        height="457"
+        height="314"
+        width="457"
         sizes="sm:100vw md:50vw lg:400px"
       />
     </div>
