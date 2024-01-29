@@ -12,7 +12,7 @@ const mobileMenuOpen = ref(false);
     class="p-5 sm:px-16 sm:py-6 flex items-center w-full justify-between font-poppins"
   >
     <Logo />
-    <div class="hidden lg:flex items-center space-x-20">
+    <!-- <div class="hidden lg:flex items-center space-x-20">
       <ul class="flex items-center space-x-12">
         <li><NuxtLink to="#">Destinations</NuxtLink></li>
         <li><NuxtLink to="#">Hotels</NuxtLink></li>
@@ -108,6 +108,6 @@ const mobileMenuOpen = ref(false);
           </div>
         </div>
       </DialogPanel>
-    </Dialog>
+    </Dialog> -->
   </div>
 </template>

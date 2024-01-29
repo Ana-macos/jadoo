@@ -77,7 +77,7 @@ import PlusPlusSVG from "~/components/global/svg/PlusPlusSVG.vue";
       <div class="relative group">
         <div class="space-y-3 cursor-pointer group-hover:border px-6 py-12 group-hover:rounded-3xl group-hover:z-20 group-hover:bg-white group-hover:drop-shadow-2xl">
           <CogSVG />
-          <p class="text-[#1E1D4C] font-semibold">Treinamento 5x por semana</p>
+          <p class="text-[#1E1D4C] font-semibold">Treinamento intensivo e interativo, 5x por semana</p>
           <p class="text-xs text-gray-500">
           Aprimore seu inglês com treinamentos intensivos, 5x por semana. Acesso flexível e professores experientes.</p>
         </div>
