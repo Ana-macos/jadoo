@@ -6,9 +6,9 @@
       class="grid grid-cols-1 sm:grid-cols-2 items-center gap-20 md:gap-16 lg:gap-20"
     >
       <div class="space-y-6">
-        <p class="capitalize font-semibold text-gray-600">Easy and Fast</p>
+      
         <h2 class="text-[#14183E] font-bold text-4xl sm:text-5xl font-volkhov">
-          Book your next trip in 3 easy steps
+          Transforme seu inglês: você rumo à fluência 
         </h2>
         <div class="space-y-7">
           <div class="flex space-x-4">
@@ -121,7 +121,7 @@
                 1/4 do tempo
               </p>
               <p class="text-sm text-gray-600">
-                Curso intensivoetodologia dinâmica para fluência rápida!
+                Curso intensivo e metodologia dinâmica para fluência rápida!
               </p>
             </div>
           </div>
