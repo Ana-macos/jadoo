@@ -65,13 +65,12 @@
 
       <div class="space-y-12 px-12 py-28 sm:p-28">
         <p class="text-[#5E6282] font-semibold text-xl sm:text-3xl text-center">
-          Subscribe to get information, latest news and other interesting offers
-          about Jadoo
+          Pronto para dominar o inglês? Entre em contato conosco via WhatsApp e comece sua jornada para fluência hoje mesmo!
         </p>
         <div
           class="flex flex-col sm:flex-row items-center justify-center gap-4 z-20"
         >
-          <div
+          <!-- <div
             class="bg-white px-6 py-3 flex space-x-3 items-center rounded-lg z-40"
           >
             <svg
@@ -100,10 +99,12 @@
               placeholder="Your email"
               class="bg-transparent border-0 outline-none w-full"
             />
-          </div>
-          <button class="block bg-[#FF946D] text-white px-6 py-3 rounded-lg">
-            Subscribe
-          </button>
+          </div> -->
+          <a href="https://wa.link/0zmijf" type="button" aria-label="Find out more"
+            class="block bg-[#F1A501] text-white p-3 text-sm font-poppins rounded-md"
+          >
+            Entrar em contato
+          </a>
         </div>
       </div>
       <svg

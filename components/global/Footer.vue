@@ -1,41 +1,40 @@
 <template>
-  <footer class="p-5 sm:px-16 sm:py-6 mt-12">
+  <footer class="p-5 sm:px-16 sm:py-6 mt-12"> 
     <div
       class="w-full text-center p-12 sm:p-0 space-y-4 sm:space-y-0 sm:grid sm:grid-cols-10 gap-20 md:gap-12 lg:gap-20"
     >
-      <div class="col-span-2 space-y-3">
+      <div class="col-span-2 space-y-3"> USK
         <NuxtLink to="/" class="text-[#181E4B] font-medium text-5xl"
-          >Jadoo.</NuxtLink
+          ></NuxtLink 
         >
         <p class="text-[#080809] text-xs font-light">
-          Book your trip in minute, get full Control for much longer.
+          Callan accredited school
         </p>
       </div>
       <div class="col-span-6 grid grid-cols-1 sm:grid-cols-6">
         <div class="col-span-2 space-y-4">
-          <p class="font-bold text-lg">Company</p>
+          <p class="font-bold text-lg">WhatsApp</p>
           <div class="space-y-2">
-            <NuxtLink to="/" class="block text-[#5E6282]">About</NuxtLink>
-            <NuxtLink to="/" class="block text-[#5E6282]">Careers</NuxtLink>
-            <NuxtLink to="/" class="block text-[#5E6282]">Mobile</NuxtLink>
+            <NuxtLink to="/" class="block text-[#5E6282]"> +55 35 99945-7873 </NuxtLink>
+            
           </div>
         </div>
         <div class="col-span-2 space-y-4">
-          <p class="font-bold text-lg">Contact</p>
+          <p class="font-bold text-lg">Mídias socias</p>
           <div class="space-y-2">
-            <NuxtLink to="/" class="block text-[#5E6282]">Help/FAQ</NuxtLink>
-            <NuxtLink to="/" class="block text-[#5E6282]">Press</NuxtLink>
-            <NuxtLink to="/" class="block text-[#5E6282]">Affilates</NuxtLink>
+            <NuxtLink to="https://www.instagram.com/uskcallan/" class="block text-[#5E6282]">Instagram</NuxtLink>
+            <NuxtLink to="https://www.facebook.com/uskcallan/?locale=pt_BR/" class="block text-[#5E6282]">Facebook</NuxtLink>
+
+          <NuxtLink to="https://www.linkedin.com/in/usk-callan-inglês-todos-os-dias-b445a1216//" class="block text-[#5E6280]">linkedin</NuxtLink>
+
           </div>
         </div>
         <div class="col-span-2 space-y-4">
-          <p class="font-bold text-lg">More</p>
-          <div class="space-y-2">
-            <NuxtLink to="/" class="block text-[#5E6282]">Airlinefees</NuxtLink>
-            <NuxtLink to="/" class="block text-[#5E6282]">Airline</NuxtLink>
-            <NuxtLink to="/" class="block text-[#5E6282]"
-              >Low fare tips</NuxtLink
-            >
+          <p class="font-bold text-lg"></p>
+          <div class="space-y-2"> 
+          
+            
+            
           </div>
         </div>
       </div>
@@ -186,12 +185,9 @@
       </div>
     </div>
     <p class="text-center text-xs text-[#5E6282] mb-8 sm:mt-8">
-      Made with 🥰🤗,
-      <NuxtLink
-        to="https://the-coding-montana.vercel.app"
-        class="text-indigo-600"
-        >The Coding Montana</NuxtLink
-      >
+      USK INSTITUTO DE INGLES LTDA – 26.632.538/0001-02
     </p>
   </footer>
 </template>
+
+

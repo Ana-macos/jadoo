@@ -19,7 +19,7 @@ import PlusPlusSVG from "~/components/global/svg/PlusPlusSVG.vue";
           <SatelightSVG />
           <p class="text-[#1E1D4C] font-semibold">Treinamentos 100% online, híbridos e presenciais</p>
           <p class="text-xs text-gray-500">
-            Aulas remotas: rápido e eficiente com método Callan.
+            Descubra flexibilidade total com nossos treinamentos. Capacite-se onde quer que esteja!
           </p>
         </div>
         <svg

@@ -14,6 +14,6 @@ import Subscribe from '~/components/subscribe/index.vue'
     <LazyDestinations />
     <LazyBookings />
     <LazyTestimonials />
-    <LazyCompanies />
+    <!-- <LazyCompanies /> -->
     <LazySubscribe />
 </template>

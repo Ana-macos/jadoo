@@ -9,6 +9,9 @@
       <h2 class="text-[#14183E] font-bold text-4xl sm:text-5xl font-volkhov">
         Os 4 pilares da fluência
       </h2>
+      <p class="font-poppins text-gray-500 text-sm">
+        O método Callan é composto por 4 pilares principais, são eles:
+      </p>
       <PlusPlusSVG />
     </div>
     <div

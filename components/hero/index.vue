@@ -49,12 +49,12 @@ import Header from "./Header.vue";
           Aprenda inglês 4x mais rápido com o Método Callan! Treinamentos online, professores nativos, fluência em 1/4 do tempo. Agende sua consultoria agora!
         </p>
         <div class="flex items-center space-x-3">
-          <button type="button" aria-label="Find out more"
+          <a href="https://wa.link/0zmijf" type="button" aria-label="Find out more"
             class="block bg-[#F1A501] text-white p-3 text-sm font-poppins rounded-md"
           >
             VAMOS CONVERSAR?
-          </button>
-          <button type="button" aria-label="Play demo" class="font-poppins flex mt-5">
+          </a>
+          <!-- <button type="button" aria-label="Play demo" class="font-poppins flex mt-5">
             <svg
               class="w-20"
               viewBox="0 0 112 112"
@@ -106,7 +106,7 @@ import Header from "./Header.vue";
               </defs>
             </svg>
             <p class="mt-5">Play Demo</p>
-          </button>
+          </button> -->
         </div>
       </div>
       <div>
