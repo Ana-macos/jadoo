@@ -3,43 +3,42 @@
     <div
       class="w-full text-center p-12 sm:p-0 space-y-4 sm:space-y-0 sm:grid sm:grid-cols-10 gap-20 md:gap-12 lg:gap-20"
     >
-      <div class="col-span-2 space-y-3"> USK
-        <NuxtLink to="/" class="text-[#181E4B] font-medium text-5xl"
-          ></NuxtLink 
-        >
+      <div class="col-span-2 space-y-3 flex justify-center">
+        <nuxt-picture
+          src="/images/callan.png"
+          alt="bookings"
+          class="-mt-16 sm:mt-0"
+          width="100%"
+        />
+        <!-- <NuxtLink to="/" class="text-[#181E4B] font-medium text-5xl"></NuxtLink>
         <p class="text-[#080809] text-xs font-light">
           Callan accredited school
-        </p>
+        </p> -->
       </div>
       <div class="col-span-6 grid grid-cols-1 sm:grid-cols-6">
         <div class="col-span-2 space-y-4">
           <p class="font-bold text-lg">WhatsApp</p>
           <div class="space-y-2">
             <NuxtLink to="/" class="block text-[#5E6282]"> +55 35 99945-7873 </NuxtLink>
-            
           </div>
         </div>
         <div class="col-span-2 space-y-4">
-          <p class="font-bold text-lg">Mídias socias</p>
+          <p class="font-bold text-lg">Instagram</p>
           <div class="space-y-2">
-            <NuxtLink to="https://www.instagram.com/uskcallan/" class="block text-[#5E6282]">Instagram</NuxtLink>
-            <NuxtLink to="https://www.facebook.com/uskcallan/?locale=pt_BR/" class="block text-[#5E6282]">Facebook</NuxtLink>
-
-          <NuxtLink to="https://www.linkedin.com/in/usk-callan-inglês-todos-os-dias-b445a1216//" class="block text-[#5E6280]">linkedin</NuxtLink>
-
+            <NuxtLink to="https://www.instagram.com/uskcallan/" class="block text-[#5E6282]">@uskcallan</NuxtLink>
+            <!-- <NuxtLink to="https://www.facebook.com/uskcallan/?locale=pt_BR/" class="block text-[#5E6282]">Facebook</NuxtLink> -->
           </div>
         </div>
         <div class="col-span-2 space-y-4">
-          <p class="font-bold text-lg"></p>
+          <p class="font-bold text-lg">LinkedIn</p>
           <div class="space-y-2"> 
-          
-            
-            
+            <NuxtLink to="https://www.linkedin.com/in/usk-callan-inglês-todos-os-dias-b445a1216//" class="block text-[#5E6280]">in/usk-callan</NuxtLink>
           </div>
         </div>
       </div>
       <div class="col-span-2">
-        <div class="space-y-3 md:space-y-0 lg:space-y-3">
+        
+        <!-- <div class="space-y-3 md:space-y-0 lg:space-y-3">
           <div class="flex items-center justify-center sm:justify-right">
             <svg
               width="61"
@@ -164,24 +163,7 @@
               </defs>
             </svg>
           </div>
-          <p class="text-[#5E6282]">Discover our app</p>
-          <div
-            class="flex items-center justify-center sm:justify-right space-x-3"
-          >
-            <nuxt-picture
-              src="/images/GooglePlay.jpg"
-              alt="GooglePlay"
-              width="107"
-              height="35"
-            />
-            <nuxt-picture
-              src="/images/PlayStore.jpg"
-              alt="PlayStore"
-              width="100"
-              height="35"
-            />
-          </div>
-        </div>
+        </div> -->
       </div>
     </div>
     <p class="text-center text-xs text-[#5E6282] mb-8 sm:mt-8">

@@ -49,7 +49,7 @@ import Header from "./Header.vue";
           Aprenda inglês 4x mais rápido com o Método Callan! Treinamentos online, professores nativos, fluência em 1/4 do tempo. Agende sua consultoria agora!
         </p>
         <div class="flex items-center space-x-3">
-          <a href="https://wa.link/0zmijf" type="button" aria-label="Find out more"
+          <a href="https://wa.link/0zmijf" type="button" aria-label="Find out more" target="_blank"
             class="block bg-[#F1A501] text-white p-3 text-sm font-poppins rounded-md"
           >
             VAMOS CONVERSAR?

@@ -16,4 +16,5 @@ import Subscribe from '~/components/subscribe/index.vue'
     <LazyTestimonials />
     <!-- <LazyCompanies /> -->
     <LazySubscribe />
+    <Whatsapp />
 </template>

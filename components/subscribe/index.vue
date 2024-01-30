@@ -100,7 +100,7 @@
               class="bg-transparent border-0 outline-none w-full"
             />
           </div> -->
-          <a href="https://wa.link/0zmijf" type="button" aria-label="Find out more"
+          <a href="https://wa.link/0zmijf" type="button" aria-label="Find out more" target="_blank"
             class="block bg-[#F1A501] text-white p-3 text-sm font-poppins rounded-md"
           >
             Entrar em contato
